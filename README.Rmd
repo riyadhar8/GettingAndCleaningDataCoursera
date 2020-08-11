@@ -1,0 +1,9 @@
+This is the repository for submission of Getting and Cleaning Data peer assignment project.  
+
+It contains the following files: 
+1. `Codebook.html` which describes the data and the variables along with sequential steps in which analysis has been performed  
+2. `run_analysis.R` which is the script that performs the data analysis  
+3. `TidyData.txt` which stores the output file with tidy data 
+
+The dataset used can be found here:
+https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
